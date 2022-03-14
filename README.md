@@ -9,7 +9,7 @@ npm install
 npm start (to run locally)
 ```
 
-![force-graph-3d](https://user-images.githubusercontent.com/71048973/158121436-614b98da-cef4-47f2-8553-55458ea81b43.png)
+![graph](https://user-images.githubusercontent.com/71048973/158129802-05ddba5f-2d59-4f90-a9a9-61eb9f2709ae.gif)
 
 
-### [Resources]: https://github.com/vasturiano/react-force-graph for customization options
+#### [Resources]: https://github.com/vasturiano/react-force-graph for customization options
